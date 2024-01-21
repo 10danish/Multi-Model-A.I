@@ -21,7 +21,8 @@ def get_gemini_M2(input,image):
     return response
 
 st.set_page_config(layout="wide")
-st.image("logo.png", width=150)
+#you can add your logo image here.
+#st.image("logo.png", width=150) 
 st.header("Multi-Model A.I")
 
     
